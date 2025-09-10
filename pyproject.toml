@@ -1,0 +1,24 @@
+[project]
+name = "pyniplay"
+version = "0.1.0"
+description = "Python warper for Niplay, a console app to play music"
+authors = [
+    { name = "Max", email = "_@_.com" }
+]
+
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/xmaxrayx/pyniplay"
+Documentation = "https://github.com/xmaxrayx/pyniplay"
+Homepage = "https://github.com/xmaxrayx/pyniplay"
+Documentation = "https://github.com/xmaxrayx/pyniplay"
+Source = "https://github.com/xmaxrayx/pyniplay"
+Tracker = "https://github.com/xmaxrayx/pyniplay/issues"
+Changelog = "https://github.com/xmaxrayx/pyniplay/releases"
+AuthorGitGub = "https://github.com/xmaxrayx/"
+AuthorLinktree = "https://linktr.ee/xmaxrayx"
+AuthorPixiv = "https://www.pixiv.net/en/users/76182182"
+
+[project.scripts]
+pyniplay = "pyniplay.cli:main"

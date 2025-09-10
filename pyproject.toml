@@ -11,8 +11,6 @@ dependencies = []
 [project.urls]
 Homepage = "https://github.com/xmaxrayx/pyniplay"
 Documentation = "https://github.com/xmaxrayx/pyniplay"
-Homepage = "https://github.com/xmaxrayx/pyniplay"
-Documentation = "https://github.com/xmaxrayx/pyniplay"
 Source = "https://github.com/xmaxrayx/pyniplay"
 Tracker = "https://github.com/xmaxrayx/pyniplay/issues"
 Changelog = "https://github.com/xmaxrayx/pyniplay/releases"

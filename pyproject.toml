@@ -1,5 +1,5 @@
 [project]
-name = "pyniplay"
+name = "niplay"
 version = "0.1.0"
 description = "Python warper for Niplay, a console app to play music"
 authors = [
